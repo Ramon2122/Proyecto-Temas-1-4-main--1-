@@ -1,0 +1,40 @@
+USER
+id
+name
+username
+phone
+website
+
+
+
+POST
+userid -> relacionado con id de user
+id
+title
+body
+
+
+
+COMMENTS
+postid -> relacionado con id de post
+id
+name
+email
+body
+
+
+
+TO DOS
+userid -> relacionado con id de user
+id
+title
+completed
+
+
+
+PHOTOS
+albumid
+id
+title
+thumbnail
+
