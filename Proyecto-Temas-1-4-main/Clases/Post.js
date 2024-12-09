@@ -7,5 +7,5 @@ class Post {
         this.title = title;
         this.body = body;
     }
-    //Hola
+    //Hola gitano
 }
