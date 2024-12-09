@@ -7,4 +7,5 @@ class Post {
         this.title = title;
         this.body = body;
     }
+
 }
